@@ -1,11 +1,26 @@
-Ao utilizar o aplicativo Consoft Plus, é importante compreender os seguintes termos e condições:
+Política Privacidade
+A sua privacidade é importante para nós. É política do Consoft respeitar a sua privacidade em relação a qualquer informação sua que possamos coletar no site Consoft, e outros sites que possuímos e operamos.
 
-Responsabilidade dos Dados: O cliente é exclusivamente responsável pelos dados processados no Consoft Plus. Não somos responsáveis por quaisquer perdas, danos ou violações de dados.
-Alterações no Aplicativo: Reservamos o direito de realizar alterações no aplicativo sem aviso prévio. Isso inclui atualizações, modificações ou descontinuação de recursos.
-Segurança dos Dados: Envidamos esforços para garantir a segurança dos dados, mas a segurança absoluta não pode ser garantida. O cliente é aconselhado a tomar medidas de segurança adicionais, como senhas fortes e não compartilhar seu acesso.
-Uso Adequado: Os clientes devem usar o Consoft Plus de forma ética e legal, evitando atividades fraudulentas, ilegais ou prejudiciais.
-Privacidade: Coletamos e utilizamos informações pessoais de acordo com nossa Política de Privacidade. O cliente concorda com a coleta e uso de dados conforme descrito.
-Suporte e Assistência: Oferecemos suporte técnico, mas não garantimos assistência ininterrupta. Faremos o possível para resolver problemas o mais rapidamente possível.
-Cancelamento: O cliente pode cancelar sua conta a qualquer momento. Qualquer taxa ou assinatura paga não será reembolsada após 7 dias de garantia contados a partir da compra.
+Solicitamos informações pessoais apenas quando realmente precisamos delas para lhe fornecer um serviço. Fazemo-lo por meios justos e legais, com o seu conhecimento e consentimento. Também informamos por que estamos coletando e como será usado.
 
-Ao utilizar o Consoft Plus, o cliente concorda com todos os termos desta política. Recomendamos a leitura completa e compreensão destes termos antes de usar o aplicativo.
+Apenas retemos as informações coletadas pelo tempo necessário para fornecer o serviço solicitado. Quando armazenamos dados, protegemos dentro de meios comercialmente aceitáveis ​​para evitar perdas e roubos, bem como acesso, divulgação, cópia, uso ou modificação não autorizados.
+
+Não compartilhamos informações de identificação pessoal publicamente ou com terceiros, exceto quando exigido por lei.
+
+O nosso site pode ter links para sites externos que não são operados por nós. Esteja ciente de que não temos controle sobre o conteúdo e práticas desses sites e não podemos aceitar responsabilidade por suas respectivas políticas de privacidade.
+
+Você é livre para recusar a nossa solicitação de informações pessoais, entendendo que talvez não possamos fornecer alguns dos serviços desejados.
+
+O uso continuado de nosso site será considerado como aceitação de nossas práticas em torno de privacidade e informações pessoais. Se você tiver alguma dúvida sobre como lidamos com dados do usuário e informações pessoais, entre em contacto connosco.
+
+
+Compromisso do Usuário
+O usuário se compromete a fazer uso adequado dos conteúdos e da informação que o Consoft oferece no site e com caráter enunciativo, mas não limitativo:
+
+A) Não se envolver em atividades que sejam ilegais ou contrárias à boa fé a à ordem pública;
+B) Não difundir propaganda ou conteúdo de natureza racista, xenofóbica, Bet Nacional ou azar, qualquer tipo de pornografia ilegal, de apologia ao terrorismo ou contra os direitos humanos;
+C) Não causar danos aos sistemas físicos (hardwares) e lógicos (softwares) do Consoft, de seus fornecedores ou terceiros, para introduzir ou disseminar vírus informáticos ou quaisquer outros sistemas de hardware ou software que sejam capazes de causar danos anteriormente mencionados.
+Mais informações
+Esperemos que esteja esclarecido e, como mencionado anteriormente, se houver algo que você não tem certeza se precisa ou não, geralmente é mais seguro deixar os cookies ativados, caso interaja com um dos recursos que você usa em nosso site.
+
+Esta política é efetiva a partir de 28 March 2024 01:03
